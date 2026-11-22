@@ -1,7 +1,7 @@
 # nyx_logs
 
-![Coverage](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/snuids/nyx_logs/badges/coverage.json&style=flat-square)
-![CI](https://img.shields.io/github/actions/workflow/status/snuids/nyx_logs/ci-tests.yml?style=flat-square&label=tests)
+![Coverage](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Indian-Runners/nyx_logs/badges/coverage.json&style=flat-square)
+![CI](https://img.shields.io/github/actions/workflow/status/Indian-Runners/nyx_logs/ci-tests.yml?style=flat-square&label=tests)
 
 The log and file browser of the NYX console: it lists a directory served by the API
 (`listdir`), lets you walk into folders, filter by name, and read a file in place
